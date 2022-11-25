@@ -1,1 +1,1 @@
-# cpp-lab3-sb-bsu
+# This repository has some programs from Practical Work 3
